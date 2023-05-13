@@ -9,6 +9,6 @@ A company wants to build a sample Front End prototype of Education website for t
 
 #### Azure Technologies used :
 Static Web Apps (for deployment of the website).
-Azure Storage Accounts.
-Web Technologies used :
+### Azure Storage Accounts.
+### Web Technologies used :
 1.java script 2.html 3.css
