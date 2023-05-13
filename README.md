@@ -1,5 +1,5 @@
 # EDUCATORWEBSITE
-This is my final year project.
+This is my FRT Internship Project.
 
 Azure link:https://thankful-cliff-07eb88900.3.azurestaticapps.net/
 
