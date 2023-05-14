@@ -29,12 +29,12 @@ In addition to our courses, we offer a resource library, where learners can acce
 ## IDE Used :
 Vs code
 
-## Steps follwed While Deploying :
+## Steps followed While Deploying :
 * Firstly I built the complete project using visual studio code,then tested it on the live server extension's.
 * After that I have installed the git on my system.
 * After that I uploded and committed the project into my github repositry.
 * The project was deployed using the github pages and tested it.
 * After that I logged in to my azure account and created azure storage account.
 * After that I have created a container with blob storage and uploaded my project code into the container.
-* after that I started my static web sevice and deployed my website on azure static web services.
+* After that I started my static web sevice and deployed my website on azure static web services.
 * Finally my website was deployed on the azure web services and ready to use...
