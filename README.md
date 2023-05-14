@@ -10,7 +10,7 @@ A company wants to build a sample Front End prototype of Education website for t
 ## project Description:
 Welcome to our online education platform! Our website provides learners with access to a variety of high-quality educational resources and courses, all available at their fingertips. Our mission is to empower learners to achieve their goals and expand their knowledge and skills, regardless of their location or schedule.An education website is a place that will be visited by very different types of people. These will be current and future students, professors, parents, those looking for a job, and even sponsors.
 
-Our website offers a wide range of courses, from beginner to advanced levels, in a variety of subjects, such as Business Analytics,, languages, and business. Our courses are designed by experienced educators and industry professionals, ensuring that learners receive the most up-to-date and relevant information.
+Our website offers a wide range of courses, from beginner to advanced levels, in a variety of subjects, such as Business Analytics,programming languages, and JQuery. Our courses are designed by experienced educators and industry professionals, ensuring that learners receive the most up-to-date and relevant information.
 
 Our learning management system (LMS) provides learners with a seamless and user-friendly experience. The LMS includes features such as interactive quizzes, engaging videos, and downloadable resources, all designed to enhance the learning experience. Our platform is accessible from any device, allowing learners to study on-the-go, anytime and anywhere.
 
